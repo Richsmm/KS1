@@ -1,13 +1,13 @@
 {
   "name": "ks1",
   "version": "1.0.0",
-  "description": "",
+  "description": "CI demo project",
   "main": "index.js",
   "scripts": {
-  "test": "node test.js",
-}
+    "test": "node test.js",
+    "build": "echo \"Build placeholder\""
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "license": "ISC"
 }
